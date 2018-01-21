@@ -1,0 +1,19 @@
+﻿Ex 1:
+
+Yêu cầu:
+
+1 - Cắt giao diện đúng như trong mẫu (padding, margin, mã màu, font chữ...)
+	+ Font-size mặc định là 12 px
+	+ Chiều rộng content: 1200px;
+	+ Hover vào ảnh trong mục RECENT PORTFOLIO thì ảnh zoom
+2 - Phần FREQUENTLY ASKED QUESTIONS
+	+ Khi click vào tab nào thì sẽ xổ ra content của tab đó
+3 - Slideshow:
+	+ Dùng jquery
+	+ Auto chạy, khi hover vào ảnh thì side sẽ stop, bỏ hover slide chạy bình thường
+	+ Thêm nút next, back slide
+4 - Validate form search + Sign to letter
+5 - Set action next back phần thương hiệu
+
+Note: - Em dùng html, css, jquery thuần nhé (Không được dùng frame work, boostrap, plugin jquery, ...)
+
